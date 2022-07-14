@@ -178,7 +178,7 @@ const LoginDialog = ({ open, setOpen }) => {
               <TextField
                 variant="standard"
                 name="username"
-                label="Enter Email/Mobile number"
+                label="Enter Username"
                 onChange={(e) => onValueChange(e)}
               />
 
